@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="seirpinskiTetrix7" motionHint="static"/>
+
+</Tracking>
+
+<Assembly name="seirpinskiTetrix7s_assembly" assemblyId="ef3e26669aef44b9a519ad3912d97c85">
+<Part name="seirpinskiTetrix7" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.393175 0.00766228 0.951738" rotation="AD: 0.9998951807259415 0.022638631642658294 0.8323674355463396 177.605" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
